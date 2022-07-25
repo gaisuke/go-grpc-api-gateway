@@ -1,0 +1,4 @@
+make.exe -f d:\Kerjaan\2022-eFishery\Magang Begins\golang-grpc-auth\go-grpc-api-gateway\Makefile --dry-run --always-make --keep-going --print-directory
+'make.exe' is not recognized as an internal or external command,
+operable program or batch file.
+
